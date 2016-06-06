@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1437586130 source:c:\users\user\desktop\c++\serial_port_test\main.cpp
+	<stdio.h>
+	<windows.h>
+	<winbase.h>
+	<winbase.h>
+	<malloc.h>
+	<winuser.h>
+	"resource.h"
+
+1437515611 c:\users\user\desktop\c++\serial_port_test\resource.h
+	<windows.h>
+
+1437515611 source:c:\users\user\desktop\c++\serial_port_test\resource.rc
+	"resource.h"
+
+1437589730 source:c:\users\ibrahim\desktop\c++ projects\serial_port_test\main.cpp
+	<stdio.h>
+	<windows.h>
+	<winbase.h>
+	<winbase.h>
+	<malloc.h>
+	<winuser.h>
+	"resource.h"
+
+1437519211 c:\users\ibrahim\desktop\c++ projects\serial_port_test\resource.h
+	<windows.h>
+
+1437519211 source:c:\users\ibrahim\desktop\c++ projects\serial_port_test\resource.rc
+	"resource.h"
+
